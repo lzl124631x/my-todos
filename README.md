@@ -1,3 +1,3 @@
 This is a list of my todos
 
-[x] create this repo.
+- [x] create this repo.
