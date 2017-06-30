@@ -5,3 +5,4 @@ This is a list of my todos
 - [ ] upload a wechat emoji
 - [ ] create a web portfolio
 - [ ] implement a page view counter
+- [ ] draw a self avatar
