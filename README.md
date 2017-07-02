@@ -8,3 +8,4 @@ This is a list of my todos
 - [ ] implement a page view counter
 - [ ] draw a self avatar
 - [ ] what is RSS
+- [ ] create a cross board game
