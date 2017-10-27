@@ -12,3 +12,4 @@ This is a list of my todos
 - [ ] draw a self avatar
 - [ ] what is RSS
 - [ ] create a cross board game
+- [ ] checkout vue
