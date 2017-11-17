@@ -13,3 +13,5 @@ This is a list of my todos
 - [ ] what is RSS
 - [ ] create a cross board game
 - [ ] checkout vue
+- [ ] challenge http://inktober.com/
+- [ ] challenge http://codevember2015.tumblr.com/
