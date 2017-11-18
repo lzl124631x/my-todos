@@ -16,3 +16,6 @@ This is a list of my todos
 - [ ] challenge http://inktober.com/
 - [ ] challenge http://codevember2015.tumblr.com/
 - [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
+
+This is a list of random thoughts. Many of them might be worthless after a second thought, but it doesn't hurt to jot it down.
+- [ ] Chrome extension -- blow some annoying parts of the webpage off.
