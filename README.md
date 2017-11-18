@@ -15,3 +15,4 @@ This is a list of my todos
 - [ ] checkout vue
 - [ ] challenge http://inktober.com/
 - [ ] challenge http://codevember2015.tumblr.com/
+- [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
