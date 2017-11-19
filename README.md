@@ -20,3 +20,4 @@
 # Random Thoughts
 Many of them might be worthless after a second thought, but it doesn't hurt to jot it down.
 - [ ] Chrome extension -- blow some annoying parts of the webpage off.
+- [ ] Web game -- easily confused words.
