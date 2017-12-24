@@ -32,5 +32,6 @@
 
 # Random Thoughts
 Many of them might be worthless after a second thought, but it doesn't hurt to jot it down.
+- [x] Web game -- easily confused words. [twinwords](https://github.com/lzl124631x/twinwords)
 - [ ] Chrome extension -- blow some annoying parts of the webpage off.
-- [ ] Web game -- easily confused words.
+
