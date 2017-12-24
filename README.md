@@ -18,7 +18,8 @@
 - [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
 
 # Reading
-- [ ] Lean Startup (30/298)
+- [ ] Lean Startup (30/296)
+- [ ] 0 to 1
 
 # Full-stack Tasks
 - [ ] Do a code-reading.
