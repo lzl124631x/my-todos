@@ -4,6 +4,7 @@
 - [x] [try hexo](http://www.jianshu.com/p/9a6dc76d4ae6)
 - [x] [create a pixelated GIF emoji using PS](http://www.jianshu.com/p/e210b8b33864)
 - [x] [checkout vue](https://www.jianshu.com/p/7dc870d5f400): I used Vue in [twinwords](https://github.com/lzl124631x/twinwords)
+- [ ] implement [this floating points effect](https://www.gxb.io/)
 - [ ] create a static emoji using AI
 - [ ] create a GIF emoji using AI
 - [ ] upload a wechat emoji (single)
@@ -16,6 +17,7 @@
 - [ ] challenge http://inktober.com/
 - [ ] challenge http://codevember2015.tumblr.com/
 - [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
+- [ ] Invert indexing
 
 # Reading
 - [ ] Lean Startup (30/296)
