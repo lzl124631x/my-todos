@@ -35,4 +35,5 @@ Many of them might be worthless after a second thought, but it doesn't hurt to j
 - [x] Web game -- easily confused words. [twinwords](https://github.com/lzl124631x/twinwords)
 - [ ] Chrome extension -- blow some annoying parts of the webpage off.
 - [ ] Weapp - TODO List.
+- [ ] Markdown blog platform (like [简书](https://www.jianshu.com/))
 
