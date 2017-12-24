@@ -18,6 +18,13 @@
 - [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
 - [ ] learn about "Lean Startup"
 
+# Full-stack Tasks
+- [ ] Automatic test frame-work
+- [ ] Continuous Integration.
+- [ ] Canvas
+- [ ] Web Game.
+- [ ] Web 3
+
 # Random Thoughts
 Many of them might be worthless after a second thought, but it doesn't hurt to jot it down.
 - [ ] Chrome extension -- blow some annoying parts of the webpage off.
