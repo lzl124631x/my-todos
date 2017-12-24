@@ -3,6 +3,7 @@
 - [x] create this repo
 - [x] [try hexo](http://www.jianshu.com/p/9a6dc76d4ae6)
 - [x] [create a pixelated GIF emoji using PS](http://www.jianshu.com/p/e210b8b33864)
+- [x] [checkout vue](https://www.jianshu.com/p/7dc870d5f400): I used Vue in [twinwords](https://github.com/lzl124631x/twinwords)
 - [ ] create a static emoji using AI
 - [ ] create a GIF emoji using AI
 - [ ] upload a wechat emoji (single)
@@ -12,7 +13,6 @@
 - [ ] draw a self avatar
 - [ ] what is RSS
 - [ ] create a cross board game
-- [ ] checkout vue
 - [ ] challenge http://inktober.com/
 - [ ] challenge http://codevember2015.tumblr.com/
 - [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
