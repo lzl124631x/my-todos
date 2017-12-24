@@ -21,6 +21,8 @@
 - [ ] Lean Startup (30/298)
 
 # Full-stack Tasks
+- [ ] Do a code-reading.
+- [ ] Work in a open-source project.
 - [ ] Automatic test frame-work
 - [ ] Continuous Integration.
 - [ ] Canvas
