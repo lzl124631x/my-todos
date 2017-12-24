@@ -16,7 +16,9 @@
 - [ ] challenge http://inktober.com/
 - [ ] challenge http://codevember2015.tumblr.com/
 - [ ] copy [this breadcrumb effect](https://segmentfault.com/a/1190000002740344#articleHeader7)
-- [ ] learn about "Lean Startup"
+
+# Reading
+- [ ] Lean Startup (30/298)
 
 # Full-stack Tasks
 - [ ] Automatic test frame-work
